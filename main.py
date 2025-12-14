@@ -2,7 +2,7 @@ import os
 from time import sleep
 """
 PROYECTO 1 : CRUD DE EMPRESAS
-NOMBRE : CÉSAR MAYTA
+NOMBRE : ARMANDO PONCE MAMANCHURA
 """
 
 dic_empresas = {
